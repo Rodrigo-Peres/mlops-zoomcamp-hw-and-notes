@@ -27,13 +27,13 @@ dependencies:
   - pip:
       - contourpy==1.2.1
       - cycler==0.12.1
-      - fastparquet==2024.2.0
       - fonttools==4.51.0
       - joblib==1.4.2
       - kiwisolver==1.4.5
       - matplotlib==3.9.0
       - pandas==2.2.2
       - pillow==10.3.0
+      - pyarrow==16.1.0
       - scikit-learn==1.4.2
       - scipy==1.13.0
       - seaborn==0.13.2
